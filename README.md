@@ -6,4 +6,4 @@
 
 ## Ссылки
 
-- [Публичная страница на GitHub Pages](https://yaohooenen.github.io/project-1/src/)
+- [Публичная страница на GitHub Pages](https://yaohooenen.github.io/project-1/)
