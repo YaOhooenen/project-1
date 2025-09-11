@@ -6,4 +6,4 @@
 
 ## Ссылки
 
-- [Публичная страница на GitHub Pages](http://127.0.0.1:3000/src/src/contacts.html)
+- [Публичная страница на GitHub Pages](https://yaohooenen.github.io/project-1/src/)
